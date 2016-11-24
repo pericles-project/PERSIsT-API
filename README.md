@@ -14,7 +14,7 @@ PERSIsT API offers the following web services:
 Requirements
 ---------------
 PERSIsT API is implemented in [Python 2.7](https://www.python.org/download/releases/2.7/).
-External Python libraries ([RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html), [Requests](http://docs.python-requests.org/en/master/), and [Flask](http://flask.pocoo.org/)) should be also already installed. 
+External Python libraries ([RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html), [Requests](http://docs.python-requests.org/en/master/), and [Flask](http://flask.pocoo.org/)) should be already installed into your computer. 
 
 Instructions
 --------------
