@@ -27,7 +27,7 @@ def root():
         # an ERMR_repository
 def runConversionOfDeltaToSPARQL():
 
-    apply_to_ERMR = False
+    apply_to_ERMR = True
 
     if not request.json:
         abort(400)
@@ -65,7 +65,7 @@ def runConversionOfDeltaToSPARQL():
         # an ERMR_repository
 def runConversionOfMultipleDeltasToSPARQL():
 
-    apply_to_ERMR = False
+    apply_to_ERMR = True
 
     if not request.json:
         abort(400)
