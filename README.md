@@ -24,7 +24,8 @@ Instructions
     ``` cd "C:\your_path_to_project" ```
 4. Run MainAPIFunctions.py through the command:
     ``` "C:\your_path_to_python27_library\python.exe" MainAPIFunctions.py ``` 
-5. Create a script or run curl to make POST calls to PERSIsT API (for more detailed examples, see documentation link)  
+    As a result, the PERSIsT API will be up and running locally. The base URL for the API is http://127.0.0.1:5000/api
+5. Create a script on any preffered language or run curl commands to make POST calls to PERSIsT API (for more detailed examples, see documentation link)  
 
 
 Documentation
