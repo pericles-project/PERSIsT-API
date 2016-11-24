@@ -16,8 +16,8 @@ from flask import request, abort
 app = Flask(__name__)
 
 @app.route("/api")
-def hello_world():
-    return 'Hello, World!'
+def root():
+    return 'PERSIsT API is running...'
 
 
 @app.route("/api/conversion", methods = ['POST'])
