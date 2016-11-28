@@ -23,7 +23,7 @@ External Python libraries ([RDFLib](http://rdflib.readthedocs.io/en/stable/getti
 
 Instructions
 --------------
-1. Install **Python 2.7** in your computer.
+1. Install **Python 2.7** and external python libraries, from which PERSIsT API depends on.
 2. Clone the project locally in your computer.
 3. Open command prompt and change directory to the local path of the stored project:
     ``` cd "C:\your_path_to_project" ```
